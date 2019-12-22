@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalcSpinner</string>
+
+    <string-array name="operator">
+        <item>operators</item>
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
